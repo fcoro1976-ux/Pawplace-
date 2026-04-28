@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PawPlace 🐾</title>
-<style>
+<style
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
   --bark:#2C1A0E;--bark2:#3d2510;--moss:#4A6741;--mossl:#6B9460;
